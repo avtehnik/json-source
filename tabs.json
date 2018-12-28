@@ -2,19 +2,19 @@
    "tabs":[  
       {  
          "title":"s3",
-         "icon":null,
+         "icon":"https://avtehnik.github.io/json-source/sensor.png",
          "color":"bd3b1b",
          "url":"https://avtehnik.github.io/create-and-deploy-static-websites-to-s3/"
       },
       {  
          "title":"Light",
-         "icon":null,
+         "icon":"https://avtehnik.github.io/json-source/light.png",
          "color":"d8a800",
          "url":"https://avtehnik.github.io/bluetooth-battary/webapp/"
       },
       {  
          "title":"Box",
-         "icon":null,
+         "icon":"https://avtehnik.github.io/json-source/dor.png",
          "color":"b9d870",
          "url":"https://avtehnik.github.io/g-code-box-generator/"
       }
