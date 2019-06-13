@@ -10,7 +10,7 @@
          "title":"Light",
          "icon":"https://avtehnik.github.io/json-source/light.png",
          "color":"#d8a800",
-         "url":"https://avtehnik.github.io/bluetooth-battary/webapp/"
+         "url":"http://s3-eu-west-1.amazonaws.com/office-things/light-control/index.html"
       },
       {  
          "title":"Box",
